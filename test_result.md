@@ -318,7 +318,15 @@ metadata:
 
 test_plan:
   current_focus:
-    - "All backend API endpoints tested and working"
+    - "Landing Page & Authentication"
+    - "Main Dashboard Layout"
+    - "Content Creation Workflow"
+    - "Image Library Management"
+    - "Post Scheduler"
+    - "Analytics Dashboard"
+    - "Business Settings"
+    - "Responsive Design"
+    - "Error Handling & UX"
   stuck_tasks: []
   test_all: true
   test_priority: "high_first"
