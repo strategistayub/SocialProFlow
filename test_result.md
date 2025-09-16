@@ -102,7 +102,7 @@
 # Testing Data - Main Agent and testing sub agent both should log testing data below this section
 #====================================================================================================
 
-user_problem_statement: "Test the SocialFlow Pro backend API endpoints and functionality including Root API, User Profile, Posts Management, Analytics, Image Library, and Database Connection"
+user_problem_statement: "Test the complete SocialFlow Pro frontend application functionality and user experience including Authentication & Login Flow, Main Dashboard Testing, Content Creation Workflow, Image Library Management, Post Scheduler, Analytics Dashboard, Business Settings, Responsive Design, Error Handling & Edge Cases, and Performance & UX"
 
 backend:
   - task: "Root API Connectivity"
